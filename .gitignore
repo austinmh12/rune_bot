@@ -1,0 +1,12 @@
+/target
+
+.env
+
+*.lock
+
+*.db
+*.db*
+
+*.json
+
+*.PNG
